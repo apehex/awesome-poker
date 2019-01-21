@@ -6,16 +6,26 @@ The most awesome tools & resources to improve your poker game!
 
 ## Table of Contents
 
-- [Section Title](#section-title)
+- [Poker Bots](#poker-bots)
+  - [Leduc Hold'em](#leduc-holdem)
+  - [No-Limit Hold'em](#no-limit-holdem)
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
 
-## Section Title
+## Poker Bots
 
-Section description (optional).
+### Leduc Hold'em
 
-- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – Item short description.
+- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First AI agent to beat professional players, in a simplified variant of NLHM.
+
+### No-Limit Hold'em
+
+- [Nicolas Dickreuter's Python poker bot](https://github.com/dickreuter/Poker.git) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+
+## Papers
+
+- [DeepStack](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study from the University of Alberta, Charles University, and Czech Technical University ; led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
 
 ## Contribute
 
