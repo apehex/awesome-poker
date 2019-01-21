@@ -6,12 +6,25 @@ The most awesome tools & resources to improve your poker game!
 
 ## Table of Contents
 
+- [Tools](#tools)
+  - [Trackers and HUDs](#trackers-and-huds)
+  - [Hand Equity Calculators](#hand-equity-calculators)
 - [Poker Bots](#poker-bots)
   - [Leduc Hold'em](#leduc-holdem)
   - [No-Limit Hold'em](#no-limit-holdem)
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
+
+## Tools
+
+### Trackers and HUDs
+
+### Hand Equity Calculators
+
+- [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python.
+- [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator fr NLHM, GUI in C.
+- [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator, CLI in JS.
 
 ## Poker Bots
 
