@@ -12,6 +12,7 @@ The most awesome tools & resources to improve your poker game!
 - [Poker Bots](#poker-bots)
   - [Leduc Hold'em](#leduc-holdem)
   - [No-Limit Hold'em](#no-limit-holdem)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
@@ -26,6 +27,10 @@ The most awesome tools & resources to improve your poker game!
 - [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C.
 - [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS.
 
+### Frameworks
+
+- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework for NLHM, API in Python.
+
 ## Poker Bots
 
 ### Leduc Hold'em
@@ -39,6 +44,13 @@ The most awesome tools & resources to improve your poker game!
 ## Papers
 
 - [DeepStack](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study from the University of Alberta, Charles University, and Czech Technical University ; led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
+
+## Other Awesome Lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [The Warren](https://github.com/torchhound/warren)
 
 ## Contribute
 
