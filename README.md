@@ -1,6 +1,6 @@
 # Awesome Poker [![Awesome][awesome-badge]][awesome-link]
 
-> A curated list of awesome poker resources :tada:
+> A curated list of awesome poker resources :clubs: :diamonds: :hearts: :spades:
 
 The most awesome tools & resources to improve your poker game!
 
@@ -26,6 +26,7 @@ The most awesome tools & resources to improve your poker game!
 - [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python.
 - [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C.
 - [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS.
+- [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history in NLHM & PLO, GUI in C#.
 
 ### Frameworks
 
@@ -40,6 +41,7 @@ The most awesome tools & resources to improve your poker game!
 ### No-Limit Hold'em
 
 - [Nicolas Dickreuter's Python poker bot](https://github.com/dickreuter/Poker.git) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+- [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
 
 ## Papers
 
