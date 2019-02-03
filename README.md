@@ -147,8 +147,8 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [cookiecutter-awesome]: https://github.com/apehex/cookiecutter-git
 
 [c-badge]: https://img.shields.io/badge/-C-blue.svg?style=flat&logo=c&colorA=grey
-[cplusplus-badge]: https://img.shields.io/badge/-C++-blue.svg?style=flat&logo=cplusplus&colorA=grey
-[csharp-badge]: https://img.shields.io/badge/-C#-blue.svg?style=flat&logo=csharp&colorA=grey
+[cplusplus-badge]: https://img.shields.io/badge/-C%2B%2B-blue.svg?style=flat&logo=cplusplus&colorA=grey
+[csharp-badge]: https://img.shields.io/badge/-C%23-blue.svg?style=flat&logo=csharp&colorA=grey
 [javascript-badge]: https://img.shields.io/badge/-Js-blue.svg?style=flat&logo=javascript&colorA=grey
 [lua-badge]: https://img.shields.io/badge/-Lua-blue.svg?style=flat&logo=lua&colorA=grey
 [open-source-badge]: https://img.shields.io/badge/-OS-red.svg?style=flat&logo=github&colorA=grey
