@@ -9,8 +9,11 @@ The most awesome tools & resources to improve your poker game!
 ## Table of Contents
 
 - [Poker Tools](#tools)
-  - [Trackers and HUDs](#trackers-and-huds)
   - [Hand Equity Calculators](#hand-equity-calculators)
+  - [Hand History Scraping and Browsing](#hand-history-scraping-and-browsing)
+  - [Automated Table Interaction](#automated-table-interaction)
+  - [Trackers and HUDs](#trackers-and-huds)
+  - [Frameworks](#frameworks)
 - [Poker Bots](#poker-bots)
   - [Leduc Hold'em](#leduc-holdem)
   - [No-Limit Hold'em](#no-limit-holdem)
@@ -43,7 +46,7 @@ The most awesome tools & resources to improve your poker game!
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
 
-### Hand History Scraping, Browsing and Analysing
+### Hand History Scraping and Browsing
 
 - [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot.
   ![NLHM][nlhm-badge]
