@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
 # Awesome Poker [![Awesome][awesome-badge]][awesome-link]
 
 > A curated list of awesome poker tools, bots, lessons, streaming and analyses :clubs: :diamonds: :hearts: :spades:
@@ -24,21 +26,27 @@ The most awesome tools & resources to improve your poker game!
 
 ### Hand Equity Calculators
 
-- [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-- [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-- [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python.
+  ![Open Source Love][open-source-badge]
+- [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C. ![Open Source Love][open-source-badge]
+- [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS.
+  ![Open Source Love][open-source-badge]
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
 
 ### Hand History Scraping, Browsing and Analysing
 
-- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot for NLHM & PLO, mostly in C. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot for NLHM & PLO, mostly in C. ![Open Source Love][open-source-badge]
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
-- [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history in NLHM & PLO, GUI in C#. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history in NLHM & PLO, GUI in C#. ![Open Source Love][open-source-badge]
 
 ### Automated Table Interaction
 
-- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot for NLHM & PLO, mostly in C. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+  ![Open Source Love][open-source-badge]
+- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot for NLHM & PLO.
+  <i class="devicon-cplusplus-plain colored"></i>
+  <i class="devicon-c-plain colored"></i>
+  ![Open Source Love][open-source-badge]
 
 ### Trackers and HUDs
 
@@ -46,18 +54,22 @@ The most awesome tools & resources to improve your poker game!
 
 ### Frameworks
 
-- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework for NLHM, API in Python. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework for NLHM, API in Python.
+  ![Open Source Love][open-source-badge]
 
 ## Poker Bots
 
 ### Leduc Hold'em
 
-- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players, in a simplified variant of NLHM. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players, in a simplified variant of NLHM.
+  ![Open Source Love][open-source-badge]
 
 ### No-Limit Hold'em
 
-- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-- [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot for NLHM & PLO, mostly in C. ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+  ![Open Source Love][open-source-badge]
+- [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
+  ![Open Source Love][open-source-badge]
 
 ## Poker Coaching
 
@@ -99,3 +111,6 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/audreyr/cookiecutter
 [cookiecutter-awesome]: https://github.com/apehex/cookiecutter-git
+
+[open-source-badge]: https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+[python-badge]: 
