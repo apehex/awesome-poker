@@ -26,25 +26,49 @@ The most awesome tools & resources to improve your poker game!
 
 ### Hand Equity Calculators
 
-- [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python.
+- [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator.
+  ![NLHM][nlhm-badge]
+  ![C Language][c-badge]
+  ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-- [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C. ![Open Source Love][open-source-badge]
-- [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS.
+- [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator.
+  ![NLHM][nlhm-badge]
+  ![C Language][c-badge]
+  ![Open Source Love][open-source-badge]
+- [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator.
+  ![NLHM][nlhm-badge]
+  ![Js Language][javascript-badge]
   ![Open Source Love][open-source-badge]
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
 
 ### Hand History Scraping, Browsing and Analysing
 
-- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot for NLHM & PLO, mostly in C. ![Open Source Love][open-source-badge]
+- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![C Language][c-badge]
+  ![C++ Language][cplusplus-badge]
+  ![Open Source Love][open-source-badge]
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
-- [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history in NLHM & PLO, GUI in C#. ![Open Source Love][open-source-badge]
+- [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![C# Language][csharp-badge]
+  ![Open Source Love][open-source-badge]
 
 ### Automated Table Interaction
 
 - [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot for NLHM & PLO.
-  <svg viewBox="0 0 128 128"><path fill="#03599C" d="M117.5 33.5l.3-.2c-.6-1.1-1.5-2.1-2.4-2.6l-48.3-27.8c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.3.9 3.4l-.2.1c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4v-55.8c.1-.8 0-1.7-.4-2.6zm-53.5 55c9.1 0 17.1-5 21.3-12.4l12.9 7.6c-6.8 11.8-19.6 19.8-34.2 19.8-21.8 0-39.5-17.7-39.5-39.5s17.7-39.5 39.5-39.5c14.7 0 27.5 8.1 34.3 20l-13 7.5c-4.2-7.5-12.2-12.5-21.3-12.5-13.5 0-24.5 11-24.5 24.5s11 24.5 24.5 24.5z"></path></svg>
+- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![C Language][c-badge]
+  ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
 
 ### Trackers and HUDs
@@ -53,21 +77,32 @@ The most awesome tools & resources to improve your poker game!
 
 ### Frameworks
 
-- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework for NLHM, API in Python.
+- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework.
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 
 ## Poker Bots
 
 ### Leduc Hold'em
 
-- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players, in a simplified variant of NLHM.
+- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players.
+  ![Leduc HM][leduchm-badge]
+  ![Lua Language][lua-badge]
+  ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
 
 ### No-Limit Hold'em
 
 - [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-- [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
+- [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![C Language][c-badge]
+  ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
 
 ## Poker Coaching
@@ -111,4 +146,14 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [cookiecutter]: https://github.com/audreyr/cookiecutter
 [cookiecutter-awesome]: https://github.com/apehex/cookiecutter-git
 
-[open-source-badge]: https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+[c-badge]: https://img.shields.io/badge/-C-blue.svg?style=flat&logo=c&colorA=grey
+[cplusplus-badge]: https://img.shields.io/badge/-C++-blue.svg?style=flat&logo=cplusplus&colorA=grey
+[csharp-badge]: https://img.shields.io/badge/-C#-blue.svg?style=flat&logo=csharp&colorA=grey
+[javascript-badge]: https://img.shields.io/badge/-Js-blue.svg?style=flat&logo=javascript&colorA=grey
+[lua-badge]: https://img.shields.io/badge/-Lua-blue.svg?style=flat&logo=lua&colorA=grey
+[open-source-badge]: https://img.shields.io/badge/-OS-red.svg?style=flat&logo=github&colorA=grey
+[python-badge]: https://img.shields.io/badge/-Py-blue.svg?style=flat&logo=python&colorA=grey
+
+[leduchm-badge]: https://img.shields.io/badge/-Leduc-green.svg?style=flat&logo=chip&colorA=grey
+[nlhm-badge]: https://img.shields.io/badge/-NLHM-green.svg?style=flat&logo=chip&colorA=grey
+[plo-badge]: https://img.shields.io/badge/-PLO-green.svg?style=flat&logo=chip&colorA=grey
