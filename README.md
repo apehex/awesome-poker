@@ -1,32 +1,48 @@
 # Awesome Poker [![Awesome][awesome-badge]][awesome-link]
 
-> A curated list of awesome poker resources :clubs: :diamonds: :hearts: :spades:
+> A curated list of awesome poker tools, bots, lessons, streaming and analyses :clubs: :diamonds: :hearts: :spades:
 
 The most awesome tools & resources to improve your poker game!
 
 ## Table of Contents
 
-- [Tools](#tools)
+- [Poker Tools](#tools)
   - [Trackers and HUDs](#trackers-and-huds)
   - [Hand Equity Calculators](#hand-equity-calculators)
 - [Poker Bots](#poker-bots)
   - [Leduc Hold'em](#leduc-holdem)
   - [No-Limit Hold'em](#no-limit-holdem)
+- [Poker Coaching](#poker-coaching)
+- [Poker Community](#poker-community)
+- [Poker and Gaming Papers](#poker-and-gaming-papers)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
 
-## Tools
-
-### Trackers and HUDs
+## Poker Tools
 
 ### Hand Equity Calculators
 
 - [Eval7](https://github.com/julianandrews/pyeval7) - Hand evaluator and range equity calculator for NLHM, API & CLI in Python.
 - [Poker-Eval](https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis) - Fast hand evaluator for NLHM, GUI in C.
 - [Poker Odds](https://github.com/CookPete/poker-odds) - Lightweight hand evaluator for NLHM, CLI in JS.
+- [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
+
+### Hand History Scraping, Browsing and Analysing
+
+- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
+- [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
 - [QuickOdds](https://github.com/sangaman/quickodds) - Replay and analyse your hand history in NLHM & PLO, GUI in C#.
+
+### Automated Table Interaction
+
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
+
+### Trackers and HUDs
+
+- [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more. 
 
 ### Frameworks
 
@@ -36,16 +52,22 @@ The most awesome tools & resources to improve your poker game!
 
 ### Leduc Hold'em
 
-- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First AI agent to beat professional players, in a simplified variant of NLHM.
+- [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players, in a simplified variant of NLHM.
 
 ### No-Limit Hold'em
 
-- [Nicolas Dickreuter's Python poker bot](https://github.com/dickreuter/Poker.git) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
 - [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot for NLHM & PLO, mostly in C.
 
-## Papers
+## Poker Coaching
 
-- [DeepStack](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study from the University of Alberta, Charles University, and Czech Technical University ; led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
+## Poker Community
+
+- [Two Plus Two](https://forumserver.twoplustwo.com/) - Forum to discuss anything poker and more, still alive.
+
+## Poker and Gaming Papers
+
+- [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
 
 ## Other Awesome Lists
 
