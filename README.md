@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-
 # Awesome Poker [![Awesome][awesome-badge]][awesome-link]
 
 > A curated list of awesome poker tools, bots, lessons, streaming and analyses :clubs: :diamonds: :hearts: :spades:
