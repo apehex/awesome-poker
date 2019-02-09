@@ -7,14 +7,17 @@ The most awesome tools & resources to improve your poker game!
 ## Table of Contents
 
 - [Poker Tools](#tools)
+  - [Casinos](#casinos)
   - [Hand Equity Calculators](#hand-equity-calculators)
   - [Hand History Scraping and Browsing](#hand-history-scraping-and-browsing)
   - [Automated Table Interaction](#automated-table-interaction)
   - [Trackers and HUDs](#trackers-and-huds)
   - [Frameworks](#frameworks)
 - [Poker Bots](#poker-bots)
-  - [Leduc Hold'em](#leduc-holdem)
-  - [No-Limit Hold'em](#no-limit-holdem)
+  - [Bot Competitions and Challenges](#bot-competitions-and-challenges)
+  - [Bot Programs](#bot-programs)
+    - [Leduc Hold'em](#leduc-holdem)
+    - [No-Limit Hold'em](#no-limit-holdem)
 - [Poker Coaching](#poker-coaching)
 - [Poker Community](#poker-community)
 - [Poker and Gaming Papers](#poker-and-gaming-papers)
@@ -24,6 +27,12 @@ The most awesome tools & resources to improve your poker game!
 - [License](#license)
 
 ## Poker Tools
+
+### Casinos
+
+Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
+
+- [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition ; deals one NLHM match in heads up at a time.
 
 ### Hand Equity Calculators
 
@@ -85,7 +94,13 @@ The most awesome tools & resources to improve your poker game!
 
 ## Poker Bots
 
-### Leduc Hold'em
+### Bot Competitions and Challenges
+
+- [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ; the full history of hands is available here.
+
+### Bot Programs
+
+#### Leduc Hold'em
 
 - [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players.
   ![Leduc HM][leduchm-badge]
@@ -93,7 +108,7 @@ The most awesome tools & resources to improve your poker game!
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
 
-### No-Limit Hold'em
+#### No-Limit Hold'em
 
 - [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
   ![NLHM][nlhm-badge]
