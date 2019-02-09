@@ -6,7 +6,9 @@ The most awesome tools & resources to improve your poker game!
 
 ## Table of Contents
 
-- [Poker Tools](#tools)
+- [Poker Data](#poker-data)
+  - [Hand Logs](#hand-logs)
+- [Poker Tools](#poker-tools)
   - [Automated Table Interaction](#automated-table-interaction)
   - [Casinos](#casinos)
   - [Frameworks](#frameworks)
@@ -25,6 +27,14 @@ The most awesome tools & resources to improve your poker game!
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
+
+## Poker Data
+
+### Hand Logs
+
+- [ACPC Match Logs](http://www.computerpokercompetition.org/downloads/) - Hand history of every bot match in the ACPC ; all the cards are revealed, even the pocket.
+  ![NLHM][nlhm-badge]
+  ![Open Source Love][open-source-badge]
 
 ## Poker Tools
 
@@ -99,7 +109,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Bot Competitions and Challenges
 
-- [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ; the full history of hands is available here.
+- [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ;happens each year, during the AAI the full history of hands is available here.
   ![NLHM][nlhm-badge]
 
 ### Bot Programs
