@@ -7,12 +7,12 @@ The most awesome tools & resources to improve your poker game!
 ## Table of Contents
 
 - [Poker Tools](#tools)
+  - [Automated Table Interaction](#automated-table-interaction)
   - [Casinos](#casinos)
+  - [Frameworks](#frameworks)
   - [Hand Equity Calculators](#hand-equity-calculators)
   - [Hand History Scraping and Browsing](#hand-history-scraping-and-browsing)
-  - [Automated Table Interaction](#automated-table-interaction)
   - [Trackers and HUDs](#trackers-and-huds)
-  - [Frameworks](#frameworks)
 - [Poker Bots](#poker-bots)
   - [Bot Competitions and Challenges](#bot-competitions-and-challenges)
   - [Bot Programs](#bot-programs)
@@ -28,11 +28,34 @@ The most awesome tools & resources to improve your poker game!
 
 ## Poker Tools
 
+### Automated Table Interaction
+
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
+- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![C Language][c-badge]
+  ![C++ Language][cplusplus-badge]
+  ![Open Source Love][open-source-badge]
+
 ### Casinos
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
 - [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition ; deals one NLHM match in heads up at a time.
+  ![NLHM][nlhm-badge]
+  ![C Language][c-badge]
+  ![Open Source Love][open-source-badge]
+
+### Frameworks
+
+- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework.
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 
 ### Hand Equity Calculators
 
@@ -68,35 +91,16 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C# Language][csharp-badge]
   ![Open Source Love][open-source-badge]
 
-### Automated Table Interaction
-
-- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
-  ![NLHM][nlhm-badge]
-  ![Python Language][python-badge]
-  ![Open Source Love][open-source-badge]
-- [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) - Well rounded open source poker bot.
-  ![NLHM][nlhm-badge]
-  ![PLO][plo-badge]
-  ![C Language][c-badge]
-  ![C++ Language][cplusplus-badge]
-  ![Open Source Love][open-source-badge]
-
 ### Trackers and HUDs
 
-- [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more. 
-
-### Frameworks
-
-- [PokerRegion](https://github.com/pokerregion/poker) - All around poker framework.
-  ![NLHM][nlhm-badge]
-  ![Python Language][python-badge]
-  ![Open Source Love][open-source-badge]
+- [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
 
 ## Poker Bots
 
 ### Bot Competitions and Challenges
 
 - [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ; the full history of hands is available here.
+  ![NLHM][nlhm-badge]
 
 ### Bot Programs
 
