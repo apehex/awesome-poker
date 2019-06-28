@@ -53,7 +53,7 @@ The most awesome tools & resources to improve your poker game!
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
 
-### Casinos
+### Casinos
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
@@ -109,7 +109,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Bots
 
-### Bot Competitions and Challenges
+### Bot Competitions and Challenges
 
 - [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ; happens each year, during the [AAAI conference on artificial intelligence](http://www.aaai.org/Conferences/AAAI/aaai.php).
   ![NLHM][nlhm-badge]
@@ -154,11 +154,11 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Community
 
-### Forums
+### Forums
 
 - [Two Plus Two](https://forumserver.twoplustwo.com/) - Forum to discuss anything poker and more, still alive.
 
-### Research Groups
+### Research Groups
 
 - [Computer Poker Research Group](http://poker.cs.ualberta.ca/) - Made the agents Loki, Poki, PsOpti, Vexbot, Hyperborean, Polaris, Cepheus and DeepStack ; located at the University of Alberta.
 - [Game AI Group](https://www.cs.auckland.ac.nz/research/gameai/projects.php) - Made Sartre ; located at the University of Auckland.
