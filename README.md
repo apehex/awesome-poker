@@ -184,7 +184,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 See [AUTHORS](AUTHORS.md)
 
-This project was initially created with [Cookiecutter][cokiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
+This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
 ## License
 
