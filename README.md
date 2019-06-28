@@ -42,7 +42,7 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
