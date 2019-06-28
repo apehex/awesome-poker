@@ -30,7 +30,7 @@ The most awesome tools & resources to improve your poker game!
 - [Credits](#credits)
 - [License](#license)
 
-## Poker Data
+## Poker Data
 
 ### Hand Logs
 
