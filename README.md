@@ -34,7 +34,7 @@ The most awesome tools & resources to improve your poker game!
 
 ### Hand Logs
 
-- [ACPC Match Logs](http://www.computerpokercompetition.org/downloads/) - Hand history of every bot match in the ACPC ; all the cards are revealed, even the pocket.
+- [ACPC Match Logs](http://www.computerpokercompetition.org/downloads/) - Hand history of every bot match in the ACPC ; all the cards are revealed.
   ![NLHM][nlhm-badge]
   ![Open Source Love][open-source-badge]
 
@@ -57,7 +57,7 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-- [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition ; deals one NLHM match in heads up at a time.
+- [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition, in heads up.
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
@@ -111,7 +111,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Bot Competitions and Challenges
 
-- [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in Heads-up No-limit Texas Hold'em ; happens each year, during the [AAAI conference on artificial intelligence](http://www.aaai.org/Conferences/AAAI/aaai.php).
+- [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in NLHM held every year at the [AAAI](http://www.aaai.org/Conferences/AAAI/aaai.php).
   ![NLHM][nlhm-badge]
 - [Brains vs AI](https://www.riverscasino.com/pittsburgh/BrainsVsAI/) - Competition held by the Pittsburgh Rivers Casino, in 2015 and 2017.
 
@@ -133,7 +133,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![LHM][lhm-badge]
 - [DeepStack](https://www.deepstack.ai/) - Latest bot from the UA CPRG ; plays in heads up.
   ![NLHM][nlhm-badge]
-- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, decision making with GA & MCMC.
+- [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
