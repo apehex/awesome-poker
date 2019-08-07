@@ -57,7 +57,8 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-- [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition, in heads up.
+- [ACPC Server Code](https://github.com/ethansbrown/acpc/tree/master/project_acpc_server) - The automated host of the Annual Computer Poker Competition.
+  ![2 players][2-player]
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
@@ -90,7 +91,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Hand History Scraping and Browsing
 
-- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded open source poker bot.
+- [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) - Well rounded history analysis tool, supporting the OpenHoldem bot.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
@@ -120,6 +121,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 #### Leduc Hold'em
 
 - [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) - First (academic) AI agent to beat professional players.
+  ![2 players][2-player]
   ![Leduc HM][leduchm-badge]
   ![Lua Language][lua-badge]
   ![C Language][c-badge]
@@ -127,29 +129,38 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
-- [Cepheus](http://poker.srv.ualberta.ca/) - Bot made by the UA CPRG ; you can query and play it in heads up.
+- [Cepheus](http://poker.srv.ualberta.ca/) - Bot made by the UA CPRG ; you can query and play it.
+  ![2 players][2-player]
   ![NLHM][nlhm-badge]
-- [Clever Piggy](http://www.cleverpiggy.com/limitbot) - Bot made by Allen Cunningham ; you can play it in heads up.
+- [Clever Piggy](http://www.cleverpiggy.com/limitbot) - Bot made by Allen Cunningham ; you can play it.
+  ![2 players][2-player]
   ![LHM][lhm-badge]
-- [DeepStack](https://www.deepstack.ai/) - Latest bot from the UA CPRG ; plays in heads up.
+- [DeepStack](https://www.deepstack.ai/) - Latest bot from the UA CPRG.
+  ![2 players][2-player]
   ![NLHM][nlhm-badge]
 - [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+  ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-- [Hibiscus Biscuit](http://cleverpiggy.com/nlbot) - Bot made by Allen Cunningham ; you can play it in NLHM heads up.
+- [Hibiscus Biscuit](http://cleverpiggy.com/nlbot) - Bot made by Allen Cunningham ; you can play it.
+  ![2 players][2-player]
   ![LHM][lhm-badge]
 - [Libratus](https://en.wikipedia.org/wiki/Libratus) - Bot made by the CMU group, which beat professionals in heads up ; not disclosed.
+  ![2 players][2-player]
   ![NLHM][nlhm-badge]
 - [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) - Well rounded open source poker bot ; can interact with online platforms.
+  ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
 - [Pluribus](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) - The first bot to beat 6-player poker, from Facebook.
+  ![6 players][6-player]
   ![NLHM][nlhm-badge]
-- [Sartre](https://web.archive.org/web/20180130155605/https://www.cs.auckland.ac.nz/poker/) - A case based AI, plays in heads up only.
+- [Sartre](https://web.archive.org/web/20180130155605/https://www.cs.auckland.ac.nz/poker/) - A case based AI.
+  ![2 players][2-player]
   ![NLHM][nlhm-badge]
 
 ## Poker Coaching
@@ -215,3 +226,8 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [lhm-badge]: https://img.shields.io/badge/-LHM-green.svg?style=flat&logo=chip&colorA=grey
 [nlhm-badge]: https://img.shields.io/badge/-NLHM-green.svg?style=flat&logo=chip&colorA=grey
 [plo-badge]: https://img.shields.io/badge/-PLO-green.svg?style=flat&logo=chip&colorA=grey
+
+[2-player]: https://img.shields.io/badge/-2-violet.svg?style=flat&colorA=grey
+[6-player]: https://img.shields.io/badge/-6-violet.svg?style=flat&colorA=grey
+[9-player]: https://img.shields.io/badge/-9-violet.svg?style=flat&colorA=grey
+[any-player]: https://img.shields.io/badge/-+-violet.svg?style=flat&colorA=grey
