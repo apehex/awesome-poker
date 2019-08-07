@@ -147,6 +147,8 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
+- [Pluribus](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) - The first bot to beat 6-player poker, from Facebook.
+  ![NLHM][nlhm-badge]
 - [Sartre](https://web.archive.org/web/20180130155605/https://www.cs.auckland.ac.nz/poker/) - A case based AI, plays in heads up only.
   ![NLHM][nlhm-badge]
 
@@ -168,6 +170,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 - [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
 - [Libratus study](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf) - Study realised by the CMU exposing part of the Libratus bot ; published at the NIPS 2017.
+- [Superhuman AI for multiplayer poker](https://science.sciencemag.org/content/early/2019/07/10/science.aay2400) - Paper on the Pluribus agent ; published in Science on July 2019.
 
 ## Other Awesome Lists
 
