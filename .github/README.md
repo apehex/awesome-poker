@@ -9,7 +9,7 @@ The most awesome tools & resources to improve your poker game!
 - [Poker Data](#poker-data)
   - [Hand Logs](#hand-logs)
 - [Poker Tools](#poker-tools)
-  - [Automated Table Interaction](#automated-table-interaction)
+  - [Automated Table Interaction](#automated-table-interaction)
   - [Casinos](#casinos)
   - [Frameworks](#frameworks)
   - [Hand Equity Calculators](#hand-equity-calculators)
@@ -115,6 +115,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in NLHM held every year at the [AAAI](http://www.aaai.org/Conferences/AAAI/aaai.php).
   ![NLHM][nlhm-badge]
 - [Brains vs AI](https://www.riverscasino.com/pittsburgh/BrainsVsAI/) - Competition held by the Pittsburgh Rivers Casino, in 2015 and 2017.
+- [MIT Pokerbots Competition](https://pokerbots.org/) - Yearly competition held in MIT, behind closed doors.
 
 ### AI Programs
 
@@ -195,8 +196,6 @@ Host environments similar to online playing plateforms, often without gui. They 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Credits
-
-See [AUTHORS](AUTHORS.md)
 
 This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
