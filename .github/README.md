@@ -237,6 +237,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 - [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
 - [DouZero paper](https://github.com/kwai/DouZero) - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
+- [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
 - [Libratus study](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf) - Study realised by the CMU exposing part of the Libratus bot ; published at the NIPS 2017.
 - [NFSP paper](https://arxiv.org/pdf/1603.01121.pdf) - J. Heinrich, D. Silver, "Deep Reinforcement Learning from Self-Play in Imperfect-Information Games", arXiv 2016.
 - [RLCard paper](https://github.com/datamllab/rlcard) - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
