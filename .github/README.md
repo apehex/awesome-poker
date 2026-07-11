@@ -221,6 +221,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Coaching
 
+- [Forge.poker](https://forge.poker) - Web trainer to memorize preflop ranges with spaced repetition ; includes equity, pot-odds and variance calculators.
+  ![NLHM][nlhm-badge]
+
 ## Poker Community
 
 ### Forums
