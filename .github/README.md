@@ -108,6 +108,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
+- [SolvePoker Odds Calculator](https://solvepoker.app/odds) - Browser equity calculator for Hold'em and 4/5/6-card Omaha ; free, no account.
 
 ### Hand History Scraping and Browsing
 
