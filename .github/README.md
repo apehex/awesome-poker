@@ -221,6 +221,11 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Coaching
 
+- [Push Fold Trainer](https://www.pushfoldtrainer.com/) - Free solved push/fold charts and a shove/fold trainer for tournaments.
+  ![NLHM][nlhm-badge]
+  ![6 players][6-player]
+  ![9 players][9-player]
+
 ## Poker Community
 
 ### Forums
