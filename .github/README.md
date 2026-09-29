@@ -167,6 +167,10 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
+- [aipoker.bot](https://aipoker.bot/) - Free play-money table against 24 LLMs, Slumbot and rule-based bots; every hand is logged with the model's explanation.
+  ![any players][any-player]
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
 - [Cepheus](http://poker.srv.ualberta.ca/) - Bot made by the UA CPRG ; you can query and play it.
   ![2 players][2-player]
   ![NLHM][nlhm-badge]
