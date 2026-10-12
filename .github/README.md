@@ -221,6 +221,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Coaching
 
+- [GTO Dojo](https://www.gtodojo.com/) - Browser trainer with free daily hands and solver-backed feedback on each decision.
+  ![NLHM][nlhm-badge]
+
 ## Poker Community
 
 ### Forums
