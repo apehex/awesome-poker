@@ -137,6 +137,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Brains vs AI](https://www.riverscasino.com/pittsburgh/BrainsVsAI/) - Competition held by the Pittsburgh Rivers Casino, in 2015 and 2017.
 - [MIT Pokerbots Competition](https://pokerbots.org/) - Yearly competition held in MIT, behind closed doors.
   ![NLHM][nlhm-badge]
+- [pokbot BOT Arena](https://baobabtr33.github.io/pokbot/) - Open online bot competition: submit a bot in any language and it plays a knockout tournament every 30 minutes, ranked on a public leaderboard.
+  ![NLHM][nlhm-badge]
+  ![Open Source Love][open-source-badge]
 
 ### AI Programs
 
