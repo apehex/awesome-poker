@@ -38,6 +38,10 @@ The most awesome tools & resources to improve your poker game!
 - [ACPC Match Logs](http://www.computerpokercompetition.org/downloads/) - Hand history of every bot match in the ACPC ; all the cards are revealed.
   ![NLHM][nlhm-badge]
   ![Open Source Love][open-source-badge]
+- [Smarter.Poker Open Datasets](https://github.com/Smarter-Poker/smarter-poker-open-datasets) - 15 CC-BY 4.0 quantitative poker benchmark datasets (6-max GTO opening frequencies, ICM bubble factors, PKO/mystery bounty equity, and US live rake structures) in CSV and JSON.
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![Open Source Love][open-source-badge]
 
 ## Poker Tools
 
@@ -108,6 +112,11 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
+- [Smarter.Poker Calculators & MCP Server](https://smarter.poker/tools) - Browser-native Hold'em/PLO equity, Malmuth-Harville ICM, pot-odds, and push/fold calculators with an open-source [26-tool MCP server](https://github.com/Smarter-Poker/smarter-poker-mcp).
+  ![NLHM][nlhm-badge]
+  ![PLO][plo-badge]
+  ![Js Language][javascript-badge]
+  ![Open Source Love][open-source-badge]
 
 ### Hand History Scraping and Browsing
 
