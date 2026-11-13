@@ -105,6 +105,10 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Js Language][javascript-badge]
   ![Open Source Love][open-source-badge]
+- [Pailiku](https://pailiku.com) - Deterministic hand equity calculator and matchup reference (169 hands, 14,365 board-combination equities).
+  ![NLHM][nlhm-badge]
+  ![Js Language][javascript-badge]
+  ![Open Source Love][open-source-badge]
 - [PokerTracker 4](https://www.pokertracker.com/) - All-round tool, with tracking, HUD, replaying and more.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
